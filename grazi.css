@@ -3,4 +3,9 @@ body {
 }
 
 p {
-  
+  text-align: center;
+}
+
+em strong {
+    color: red;
+}
